@@ -13,6 +13,7 @@
         <module>Tag-Content-Extractor</module>
         <module>BigDecimal-Usage</module>
         <module>Primality-Test</module>
+        <module>OneD-Array</module>
     </modules>
     
     <dependencies>
