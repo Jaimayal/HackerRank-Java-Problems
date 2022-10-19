@@ -2,18 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>HackerRank-Java-Problems</artifactId>
+        <groupId>com.jaimayal</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.jaimayal</groupId>
-    <artifactId>HackerRank-Java-Problems</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>Valid-Username-Regular-Expression</module>
-        <module>Tag-Content-Extractor</module>
-        <module>BigDecimal-Usage</module>
-        <module>Primality-Test</module>
-    </modules>
+    <artifactId>Primality-Test</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
