@@ -14,6 +14,10 @@
         <module>BigDecimal-Usage</module>
         <module>Primality-Test</module>
         <module>OneD-Array</module>
+        <module>TwoD-Array</module>
+        <module>BigInteger-Usage</module>
+        <module>Inheritance-II</module>
+        <module>Abstract-Class</module>
     </modules>
     
     <dependencies>
