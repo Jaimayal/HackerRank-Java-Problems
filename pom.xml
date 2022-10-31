@@ -18,6 +18,7 @@
         <module>BigInteger-Usage</module>
         <module>Inheritance-II</module>
         <module>Abstract-Class</module>
+        <module>Subarray</module>
     </modules>
     
     <dependencies>
