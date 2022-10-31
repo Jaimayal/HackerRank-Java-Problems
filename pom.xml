@@ -19,6 +19,7 @@
         <module>Inheritance-II</module>
         <module>Abstract-Class</module>
         <module>Subarray</module>
+        <module>Arraylist</module>
     </modules>
     
     <dependencies>
