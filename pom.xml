@@ -21,6 +21,7 @@
         <module>Subarray</module>
         <module>Arraylist</module>
         <module>OneD-ArrayPT2</module>
+        <module>List</module>
     </modules>
     
     <dependencies>
