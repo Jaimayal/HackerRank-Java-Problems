@@ -20,6 +20,7 @@
         <module>Abstract-Class</module>
         <module>Subarray</module>
         <module>Arraylist</module>
+        <module>OneD-ArrayPT2</module>
     </modules>
     
     <dependencies>
