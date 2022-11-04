@@ -25,12 +25,14 @@ public class Solution {
         if (s.length() % 2 != 0) {
             return false;
         }
-
+        
         Map<Character, Character> pairs = new HashMap<>();
         pairs.put(')', '(');
         pairs.put(']', '[');
         pairs.put('}', '{');
         Stack<Character> stack = new Stack<>();
+        // Para tener una solucion optima se debe interactuar con la
+        // Stack de forma adecuada y no agregar todos los caracteres de una.
         for (char c : s.toCharArray()) {
             stack.push(c);
         }
