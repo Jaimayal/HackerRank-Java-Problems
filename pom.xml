@@ -23,6 +23,7 @@
         <module>OneD-ArrayPT2</module>
         <module>List</module>
         <module>Map</module>
+        <module>Stack</module>
     </modules>
     
     <dependencies>
